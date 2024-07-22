@@ -24,11 +24,10 @@ To work with unity:
 * Use level up and down feature of terrain to create mountain or rough land structure.
 
 Script file used
-* Back to mode
-* ConnectToServer
-* CreateAndJoinRoom
-* Modes
-* PlayFabManager
-* StaticData
-* PhotonSetupManager
-* 
+* Back to mode : This script is used to redirect our scene from Heathcare or Multiplayer mode back to the page where we can select either of the mode again.
+* ConnectToServer : This script is used to connect our player to the photon server for multiplayer system.
+* CreateAndJoinRoom : This script is used for creating or joining a room in multiplayer system on photon server.
+* Modes : This script contains action for Modes scene buttons to enter either of the mode.
+* PlayFabManager : This script is u to store and fetch data from the PlayFab database
+* StaticData : This script is used to temporarily store data so that is can transfer room code data from CreateAndJoinRoom C# file to PhotonSetupManager C# file.
+* PhotonSetupManager : This script file is used to connect our application to Photon Server and create or join a particular room for multiplayer communication.
