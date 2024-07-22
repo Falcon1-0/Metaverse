@@ -22,3 +22,13 @@ To work with unity:
 * In the project pannel Right Click -> 3D Object -> Terrain
 * Use various terrain features (Add ground layers, trees, grass, etc.)
 * Use level up and down feature of terrain to create mountain or rough land structure.
+
+Script file used
+* Back to mode
+* ConnectToServer
+* CreateAndJoinRoom
+* Modes
+* PlayFabManager
+* SpawnPlayer
+* StaticData
+* PhotonSetupManager
