@@ -29,6 +29,6 @@ Script file used
 * CreateAndJoinRoom
 * Modes
 * PlayFabManager
-* SpawnPlayer
 * StaticData
 * PhotonSetupManager
+* 
