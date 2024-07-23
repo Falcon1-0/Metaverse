@@ -1,5 +1,5 @@
 # Metaverse
-Codes and data related to all the things we have done in out metaverse Project. Collaborators: Kushal Mohite, Tanvi Dhonukshe
+Codes and data related to all the things we have done in our metaverse Project. Collaborators: Kushal Mohite, Tanvi Dhonukshe
 
 For the metverse project we have used:
 * [Unity](https://docs.unity.com/) : Creating Metverse World
