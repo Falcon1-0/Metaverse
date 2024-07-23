@@ -1,4 +1,4 @@
-# Metaverse
+b# Metaverse
 Codes and data related to all the things we have done in our metaverse Project. Collaborators: Kushal Mohite, Tanvi Dhonukshe
 
 ## Abstract
@@ -49,4 +49,12 @@ The platform doesn't stop at individual consultations. The metaverse's interacti
 ### ![Adding Script to Game Object](https://github.com/Falcon1-0/Metaverse/blob/main/Assets/Adding%20script%20to%20object.png)
 
 ## Video Tutorials
+* [How to create Metaverse](https://www.youtube.com/watch?v=nCDGjLRecrs)
+* [How to add Customize Avatar](https://www.youtube.com/watch?v=x64CV_fVOt8)
+* [How to add ConvAI](https://www.youtube.com/watch?v=Vhr7IvfITgU)
+* [PlayFab Integration](https://www.youtube.com/watch?v=QS_sl7jNyVc&list=PL1aAeF6bPTB4oP-Tejys3n8P8iXlj7uj-&index=6)
+* [How to add Photon Unity Networking for multiplayer](https://www.youtube.com/watch?v=93SkbMpWCGo)
+* [Adding PUN Voice 2 for Audio communication in multiplayer](https://www.youtube.com/watch?v=yjUltw6eypQ)
 
+## Game Files
+* [Link](https://drive.google.com/drive/folders/1f3RMM40FhRnoffgvGPMDCtb4YhSo3S5m?usp=sharing)
