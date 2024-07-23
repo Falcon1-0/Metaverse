@@ -1,7 +1,7 @@
 # Metaverse
 Codes and data related to all the things we have done in our metaverse Project. Collaborators: Kushal Mohite, Tanvi Dhonukshe
 
-## For the metverse project we have used:
+## Tools used:
 * [Unity](https://docs.unity.com/) : Creating Metverse World
 * [Photon Unity Network 2 (PUN2)](https://doc.photonengine.com/pun/current/getting-started/pun-intro) : Create Multiplayer system
 * [PUN Voice 2](https://doc.photonengine.com/voice/current/getting-started/voice-for-pun) : Enabbling Audio communication within multiplayer world
