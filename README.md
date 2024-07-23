@@ -38,4 +38,4 @@ Script file used
   * Create empty game object in the project hierarchy
   * Create the C# script you want to add
   * Drag and drop the created script file to the inspector of the created empty game object
-![Adding Script to Game Object](https://github.com/Falcon1-0/Metaverse/blob/main/Assets/Adding%20script%20to%20object.png)
+### ![Adding Script to Game Object](https://github.com/Falcon1-0/Metaverse/blob/main/Assets/Adding%20script%20to%20object.png)
