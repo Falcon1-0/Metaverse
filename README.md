@@ -20,7 +20,7 @@ To work with unity:
 * Download and install unity -> open Unity
 * Create a new 3D project
 * In the project pannel Right Click -> 3D Object -> Terrain
-* Use various terrain features (Add ground layers, trees, grass, etc.)
+* Use various terrain features (Add ground layers, trees, grass, etc.) by downloading it from [Unity Asset Store](https://assetstore.unity.com/)
 * Use level up and down feature of terrain to create mountain or rough land structure.
 
 Script file used
@@ -31,3 +31,5 @@ Script file used
 * PlayFabManager : This script is u to store and fetch data from the PlayFab database
 * StaticData : This script is used to temporarily store data so that is can transfer room code data from CreateAndJoinRoom C# file to PhotonSetupManager C# file.
 * PhotonSetupManager : This script file is used to connect our application to Photon Server and create or join a particular room for multiplayer communication.
+
+
