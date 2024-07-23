@@ -1,6 +1,14 @@
 # Metaverse
 Codes and data related to all the things we have done in our metaverse Project. Collaborators: Kushal Mohite, Tanvi Dhonukshe
 
+## Abstract
+This project envisions a healthcare metaverse platform that revolutionizes patient engagement and accessibility. Built with Unity and featuring customizable avatars from Ready Player Me. Patients can engage in consultations with healthcare providers, shedding geographical limitations. Beyond consultations, the platform empowers users to explore treatment options through interactive simulations, promoting informed decision-making, the platform also fosters a comprehensive and immersive virtual environment.
+
+At the heart of this virtual space lies a powerful medical information search engine powered by an open-source AI module. This intelligent engine simplifies access to a vast ocean of healthcare knowledge, fostering a deeper understanding of individual well-being. To further empower patients, the platform leverages AI to provide personalized doctor recommendations. This ensures patients connect with the most suitable healthcare professionals for their specific needs.
+
+The platform doesn't stop at individual consultations. The metaverse's interactive nature fosters social interaction among patients. Avatars become a tool for building communities and support networks, fostering a sense of connection and shared experiences. This holistic approach to healthcare goes beyond traditional medical care, promoting a patient-centric environment that empowers individuals to take charge of their health journey.
+
+
 ## Tools used:
 * [Unity](https://docs.unity.com/) : Creating Metverse World
 * [Photon Unity Network 2 (PUN2)](https://doc.photonengine.com/pun/current/getting-started/pun-intro) : Create Multiplayer system
@@ -39,3 +47,6 @@ Codes and data related to all the things we have done in our metaverse Project. 
   * Create the C# script you want to add
   * Drag and drop the created script file to the inspector of the created empty game object
 ### ![Adding Script to Game Object](https://github.com/Falcon1-0/Metaverse/blob/main/Assets/Adding%20script%20to%20object.png)
+
+## Video Tutorials
+
